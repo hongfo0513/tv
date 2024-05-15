@@ -167,3 +167,276 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,Unknown_104
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,Unknown_2
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 ,Unknown_3
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,Unknown_4
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 ,Unknown_6
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 ,Unknown_9
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_10
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 ,Unknown_19
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_20
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 ,Unknown_21
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 ,Unknown_24
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+#EXTINF:-1 ,Unknown_26
+http://45.88.92.3:80/tr3_AnimalPlanet_HD/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_28
+http://45.159.74.14:80/AnimalPlanet/index.m3u8
+#EXTINF:-1 ,Unknown_29
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 ,Unknown_38
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 ,Unknown_42
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_45
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_59
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 ,Unknown_61
+https://bein-xtra-bein.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Unknown_67
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 ,Unknown_77
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 ,Unknown_78
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 ,Unknown_82
+http://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master_1000.m3u8
+#EXTINF:-1 ,Unknown_88
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,Unknown_89
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 ,Unknown_90
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ,Unknown_100
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 ,Unknown_101
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,Unknown_129
+http://comedy-redbox.amagi.tv/360p/index.m3u8
+#EXTINF:-1 ,Unknown_134
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Unknown_136
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1 ,Unknown_144
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove-channel/0ff5b3b6-cfe1-40bc-a4ae-51ee522e56d8/1.m3u8
+#EXTINF:-1 ,Unknown_146
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+#EXTINF:-1 ,Unknown_151
+https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+#EXTINF:-1 ,Unknown_152
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_153
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 ,Unknown_158
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 ,Unknown_168
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 ,Unknown_169
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 ,Unknown_172
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 ,Unknown_178
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 ,Unknown_179
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 ,Unknown_180
+https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Unknown_181
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,Unknown_193
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_198
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 ,Unknown_199
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,Unknown_200
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_209
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 ,Unknown_213
+http://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1000000.m3u8
+#EXTINF:-1 ,Unknown_221
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 ,Unknown_227
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 ,Unknown_228
+http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
+#EXTINF:-1 ,Unknown_232
+http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF:-1 ,Unknown_237
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_240
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1 ,Unknown_243
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_246
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,Unknown_254
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#EXTINF:-1 ,Unknown_261
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 ,Unknown_262
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_264
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 ,Unknown_265
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 ,Unknown_266
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 ,Unknown_269
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Unknown_274
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist_w1081597033.m3u8
+#EXTINF:-1 ,Unknown_279
+http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Unknown_283
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 ,Unknown_284
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Unknown_285
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 ,Unknown_296
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_302
+https://mytime-tcl.amagi.tv/playlist288-p.m3u8
+#EXTINF:-1 ,Unknown_303
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_304
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 ,Unknown_305
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 ,Unknown_306
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 ,Unknown_308
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:-1 ,Unknown_314
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_321
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 ,Unknown_322
+https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_323
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_324
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_326
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist404.m3u8
+#EXTINF:-1 ,Unknown_328
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 ,Unknown_330
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_331
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_332
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_333
+http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1 ,Unknown_335
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_344
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 ,Unknown_351
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_352
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_353
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_355
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Unknown_356
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_358
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8
+#EXTINF:-1 ,Unknown_365
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 ,Unknown_367
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 ,Unknown_369
+https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Unknown_370
+https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Unknown_372
+https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Unknown_376
+http://rakuten-action-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Unknown_378
+http://rakuten-comedy-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Unknown_379
+http://rakuten-drama-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Unknown_380
+http://rakuten-family-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Unknown_381
+http://rakuten-romance-8-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 ,Unknown_385
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1 ,Unknown_388
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Unknown_393
+http://69.64.57.208:8080/russiatoday/playlist.m3u8
+#EXTINF:-1 ,Unknown_394
+https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 ,Unknown_395
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 ,Unknown_396
+http://69.64.57.208:8080/rtfrance/playlist.m3u8
+#EXTINF:-1 ,Unknown_397
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 ,Unknown_399
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+#EXTINF:-1 ,Unknown_401
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 ,Unknown_417
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+#EXTINF:-1 ,Unknown_418
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 ,Unknown_428
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_430
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_432
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 ,Unknown_438
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Unknown_439
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_442
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 ,Unknown_447
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 ,Unknown_452
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Unknown_473
+https://washingtonpost-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_474
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+#EXTINF:-1 ,Unknown_475
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 ,Unknown_476
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 ,Unknown_477
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 ,Unknown_478
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 ,Unknown_479
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 ,Unknown_480
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
+#EXTINF:-1 ,Unknown_482
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_487
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Unknown_488
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,Unknown_489
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
